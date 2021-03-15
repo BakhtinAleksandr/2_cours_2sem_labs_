@@ -1,0 +1,20 @@
+C:\Users\Шурик\source\repos\Directory\Directory\obj\Debug\Directory.csprojAssemblyReference.cache
+C:\Users\Шурик\source\repos\Directory\Directory\obj\Debug\Directory.Form1.resources
+C:\Users\Шурик\source\repos\Directory\Directory\obj\Debug\Directory.Properties.Resources.resources
+C:\Users\Шурик\source\repos\Directory\Directory\obj\Debug\Directory.csproj.GenerateResource.cache
+C:\Users\Шурик\source\repos\Directory\Directory\obj\Debug\Directory.csproj.CoreCompileInputs.cache
+C:\Users\Шурик\source\repos\Directory\Directory\bin\Debug\Directory.exe.config
+C:\Users\Шурик\source\repos\Directory\Directory\bin\Debug\Directory.exe
+C:\Users\Шурик\source\repos\Directory\Directory\bin\Debug\Directory.pdb
+C:\Users\Шурик\source\repos\Directory\Directory\obj\Debug\Directory.exe
+C:\Users\Шурик\source\repos\Directory\Directory\obj\Debug\Directory.pdb
+C:\Users\Шурик\Desktop\2 курс\2 семестр\Структуры\Лабы\хэш\Справочник1\Directory\Directory\bin\Debug\Directory.exe.config
+C:\Users\Шурик\Desktop\2 курс\2 семестр\Структуры\Лабы\хэш\Справочник1\Directory\Directory\bin\Debug\Directory.exe
+C:\Users\Шурик\Desktop\2 курс\2 семестр\Структуры\Лабы\хэш\Справочник1\Directory\Directory\bin\Debug\Directory.pdb
+C:\Users\Шурик\Desktop\2 курс\2 семестр\Структуры\Лабы\хэш\Справочник1\Directory\Directory\obj\Debug\Directory.csprojAssemblyReference.cache
+C:\Users\Шурик\Desktop\2 курс\2 семестр\Структуры\Лабы\хэш\Справочник1\Directory\Directory\obj\Debug\Directory.Form1.resources
+C:\Users\Шурик\Desktop\2 курс\2 семестр\Структуры\Лабы\хэш\Справочник1\Directory\Directory\obj\Debug\Directory.Properties.Resources.resources
+C:\Users\Шурик\Desktop\2 курс\2 семестр\Структуры\Лабы\хэш\Справочник1\Directory\Directory\obj\Debug\Directory.csproj.GenerateResource.cache
+C:\Users\Шурик\Desktop\2 курс\2 семестр\Структуры\Лабы\хэш\Справочник1\Directory\Directory\obj\Debug\Directory.csproj.CoreCompileInputs.cache
+C:\Users\Шурик\Desktop\2 курс\2 семестр\Структуры\Лабы\хэш\Справочник1\Directory\Directory\obj\Debug\Directory.exe
+C:\Users\Шурик\Desktop\2 курс\2 семестр\Структуры\Лабы\хэш\Справочник1\Directory\Directory\obj\Debug\Directory.pdb
